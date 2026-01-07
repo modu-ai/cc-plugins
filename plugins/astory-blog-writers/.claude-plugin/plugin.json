@@ -1,7 +1,7 @@
 {
   "name": "astory-blog-writers",
   "version": "2.0.0",
-  "description": "Complete blog writing system with 8 AI author personas (Architect, Developer, Storyteller, Mentor, Analyst, Reviewer, Curator, Columnist), research agent, anti-AI pattern validation, and Korean writing standards. Use when creating blog posts with unique author voices and styles.",
+  "description": "8개 AI 저자 페르소나(아키텍트, 개발자, 스토리텔러, 멘토, 분석가, 리뷰어, 큐레이터, 칼럼니스트), 리서치 에이전트, Anti-AI 패턴 검증, 한국어 작성 표준을 제공하는 종합 블로그 작성 시스템. 독특한 작가 목소리와 스타일로 블로그 포스트를 작성할 때 사용하세요.",
   "author": {
     "name": "MODU AI",
     "email": "email@mo.ai.kr",
@@ -9,7 +9,7 @@
   },
   "homepage": "https://github.com/modu-ai/claude-code-plugins/tree/main/plugins/astory-blog-writers",
   "repository": "https://github.com/modu-ai/claude-code-plugins.git",
-  "license": "MIT",
+  "license": "COPYLEFT",
   "keywords": [
     "blog",
     "writing",
@@ -20,9 +20,7 @@
     "anti-ai",
     "validation"
   ],
-  "commands": [
-    "./commands/post.md"
-  ],
+  "commands": ["./commands/post.md"],
   "agents": [
     "./agents/researcher.md",
     "./agents/writer-analyst.md",
