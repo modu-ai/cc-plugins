@@ -1,5 +1,5 @@
 {
-  "name": "modu-ai-claude-plugins",
+  "name": "claude-code-plugins",
   "description": "MODU AI's Official Claude Code Plugin Marketplace - AI 개발 도구와 콘텐츠 생성 플러그인",
   "version": "1.0.0",
   "author": {
