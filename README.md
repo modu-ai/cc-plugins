@@ -2,7 +2,7 @@
 
 > Claude Code의 기능을 확장하는 공식 플러그인 저장소
 
-[![Marketplace](https://img.shields.io/badge/Marketplace-Official-blue.svg)](https://github.com/modu-ai/claude-plugins)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Official-blue.svg)](https://github.com/modu-ai/cc-plugins)
 [![License](https://img.shields.io/badge/license-Copyleft%20GPL--3.0-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugins-purple.svg)](https://claude.ai)
 
@@ -22,7 +22,7 @@
 ### 1단계: 마켓플레이스 추가
 
 ```bash
-/plugin marketplace add modu-ai/claude-code-plugins
+/plugin marketplace add modu-ai/cc-plugins
 ```
 
 ### 2단계: 플러그인 설치
@@ -95,7 +95,7 @@ aStory Blog Writers는 혁신적인 Hybrid Author System v2.0을 기반으로 �
 
 ```bash
 # 마켓플레이스 추가 (최초 1회)
-/plugin marketplace add modu-ai/claude-code-plugins
+/plugin marketplace add modu-ai/cc-plugins
 
 # 플러그인 설치 (project scope 권장)
 /plugin install astory-blog-writers@moai-cc-plugins --scope project
@@ -131,7 +131,7 @@ aStory Blog Writers는 혁신적인 Hybrid Author System v2.0을 기반으로 �
 1. **저장소 포크**
 
    ```bash
-   git clone https://github.com/modu-ai/claude-code-plugins.git
+   git clone https://github.com/modu-ai/cc-plugins.git
    ```
 
 2. **새 플러그인 또는 개선사항 개발**
@@ -159,8 +159,8 @@ Copyleft (c) 2026 GOOS
 
 ## 지원 및 문의
 
-- **Issues**: [GitHub Issues](https://github.com/modu-ai/claude-plugins/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/modu-ai/claude-plugins/discussions)
+- **Issues**: [GitHub Issues](https://github.com/modu-ai/cc-plugins/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/modu-ai/cc-plugins/discussions)
 - **Email**: email@goos.kim
 - **Developer Blog**: [https://goos.kim](https://goos.kim)
 

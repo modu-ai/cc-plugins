@@ -7,8 +7,8 @@
     "email": "email@mo.ai.kr",
     "url": "https://github.com/modu-ai"
   },
-  "homepage": "https://github.com/modu-ai/claude-code-plugins/tree/main/plugins/astory-blog-writers",
-  "repository": "https://github.com/modu-ai/claude-code-plugins.git",
+  "homepage": "https://github.com/modu-ai/cc-plugins/tree/main/plugins/astory-blog-writers",
+  "repository": "https://github.com/modu-ai/cc-plugins.git",
   "license": "COPYLEFT",
   "keywords": [
     "blog",
