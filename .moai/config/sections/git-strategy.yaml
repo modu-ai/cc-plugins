@@ -1,0 +1,30 @@
+# Git Strategy Settings
+# Git workflow configuration for the project
+
+git:
+  # Branching strategy
+  branching:
+    main_branch: "main"
+    develop_branch: "develop"
+    feature_prefix: "feature/"
+    bugfix_prefix: "bugfix/"
+    release_prefix: "release/"
+
+  # Commit conventions
+  commits:
+    style: "conventional"
+    types:
+      - feat
+      - fix
+      - docs
+      - style
+      - refactor
+      - test
+      - chore
+    scope_required: false
+
+  # Pull request settings
+  pull_requests:
+    require_review: true
+    auto_merge: false
+    squash_merge: true

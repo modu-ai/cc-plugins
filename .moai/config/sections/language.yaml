@@ -1,0 +1,23 @@
+# Language Settings
+# All language preferences for MoAI-ADK
+# Referenced by: @.moai/config/sections/language.yaml in CLAUDE.md
+
+language:
+  # Primary conversation language (user-facing responses)
+  conversation_language: "ko"
+  conversation_language_name: "Korean"
+
+  # Agent prompt language (internal - English recommended for token efficiency)
+  agent_prompt_language: "en"
+
+  # Documentation language
+  documentation_language: "ko"
+
+  # Code comments language
+  code_comments: "en"
+
+# Token cost impact reference:
+# - English: baseline (1.0x)
+# - Korean: ~1.3x tokens
+# - Japanese: ~1.4x tokens
+# - Chinese: ~1.2x tokens

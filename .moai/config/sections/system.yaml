@@ -1,0 +1,23 @@
+# System Settings
+# MoAI-ADK system configuration
+
+system:
+  # MoAI version information
+  moai:
+    version: "0.40.0"
+
+  # Claude Code integration
+  claude_code:
+    version: ">=1.0.0"
+
+  # Plugin system
+  plugins:
+    marketplace_enabled: true
+    auto_update: false
+    staging_tests: true
+
+  # Initialization status
+  initialization:
+    completed: true
+    completed_at: "2026-01-07T00:00:00Z"
+    mode: "fresh_install"

@@ -1,0 +1,13 @@
+# User Settings
+# Personal preferences for MoAI-ADK interactions
+# Referenced by: @.moai/config/sections/user.yaml in CLAUDE.md
+
+user:
+  name: "GoosLab"
+  greeting_style: "professional"
+
+# Personalization preferences
+preferences:
+  verbose_output: false
+  show_progress: true
+  auto_confirm: false

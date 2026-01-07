@@ -1,0 +1,38 @@
+{
+  "name": "astory-blog-writers",
+  "version": "2.0.0",
+  "description": "Complete blog writing system with 8 AI author personas (Architect, Developer, Storyteller, Mentor, Analyst, Reviewer, Curator, Columnist), research agent, anti-AI pattern validation, and Korean writing standards. Use when creating blog posts with unique author voices and styles.",
+  "author": {
+    "name": "GOOS",
+    "email": "goos@astory.io",
+    "url": "https://astory.io"
+  },
+  "homepage": "https://github.com/modu-ai/claude-plugins/tree/main/plugins/astory-blog-writers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modu-ai/claude-plugins.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "blog",
+    "writing",
+    "personas",
+    "korean",
+    "content",
+    "research",
+    "anti-ai",
+    "validation"
+  ],
+  "commands": ["./commands/"],
+  "agents": ["./agents/"],
+  "skills": [
+    "./skills/traits/",
+    "./skills/personas/",
+    "./skills/protocols/",
+    "./skills/crew-roles/",
+    "./skills/research/",
+    "./skills/writing-standards/",
+    "./skills/anti-ai-validator/"
+  ],
+  "hooks": "./hooks/hooks.json"
+}
