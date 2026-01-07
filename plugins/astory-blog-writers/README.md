@@ -941,6 +941,7 @@ SOFTWARE.
 
 ## 지원
 
+- **Discord**: [모두의AI 커뮤니티](https://discord.gg/KZSPSJjm5V)
 - **Issues**: [GitHub Issues](https://github.com/modu-ai/cc-plugins/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/modu-ai/cc-plugins/discussions)
 - **Email**: email@goos.kim
